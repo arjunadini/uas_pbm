@@ -18,10 +18,10 @@
    Prodi : Informatika
   </p>
   <p>
-   Mata Kuliah : Framework Pemrograman Web
+   Mata Kuliah : Pemrograman Berbasis Android
   </p>
   <p>
-    Dosen Pengampu : Kamal Prihamdani M.Kom
+    Dosen Pengampu : Purwantoro,S.Kom.,M.Kom
   </p>
   
 </div>
