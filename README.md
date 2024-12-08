@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Kumpulan+Tugas+Praktikum)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=UAS+PEMROGRAMAN+BERBASIS+ANDROID)](https://git.io/typing-svg)
 
 ## Profile
 <div>
