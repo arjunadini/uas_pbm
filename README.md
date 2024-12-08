@@ -1,18 +1,31 @@
-# Todo Flutter App
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Kumpulan+Tugas+Praktikum)](https://git.io/typing-svg)
 
-Todo app created in flutter using Hive database.<br>
+## Profile
+<div>
+  <p>
+    Nama : Arjuna Dini Kencana
+  </p>
+   <p>
+    NPM : 2210631170009
+  </p>
+  <p>
+    Kelas : 5B 
+  </p>
+  <p>
+    Universitas : Universitas Singaperbangsa Karawang
+  </p>
+  <p>
+   Prodi : Informatika
+  </p>
+  <p>
+   Mata Kuliah : Framework Pemrograman Web
+  </p>
+  <p>
+    Dosen Pengampu : Kamal Prihamdani M.Kom
+  </p>
+  
+</div>
 
-**Dependencies To Add In pubspec.yaml:**
->[dependencies]<br>
->hive: ^2.2.3<br>
->hive_flutter: ^1.1.0<br>
->path_provider: ^2.0.4<br>
->flutter_launcher_icons: ^0.9.2<br>
+## Deskripsi Program
 
->[dev_dependencies]<br>
->hive_generator: ^2.0.0<br>
->build_runner: ^2.4.6<br>
-
-
-**Command To Create Hive Database Adapter**<br>
->"flutter pub run build_runner build"<br>
+Sudah Done Semua Pertemuan dan Tugas, untuk Repository pas saya upload jadi 1 malah ke reset tanggalnya teh jadi kaya baru ngirim semua🙏
